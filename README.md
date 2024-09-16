@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sandipc7
+- 👋 Hi, I’m Sandip
 - 👀 I’m interested in learning new technologies, making new connections.
 - 🌱 I’m currently learning GenAI
 - 💞️ I’m looking to collaborate on GenAI
