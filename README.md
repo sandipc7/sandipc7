@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new technologies, making new connections.
 - 🌱 I’m currently learning GenAI
 - 💞️ I’m looking to collaborate on GenAI
-- 📫 How to reach me
+- 📫 How to reach me https://www.linkedin.com/in/sandipchatterjee7/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Cats ^_^
 
